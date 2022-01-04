@@ -153,3 +153,7 @@ cython_debug/
 creditcard.csv
 bigmart_train.csv
 bigmart_test.csv
+human_test.csv
+human_train.csv
+model/
+data/
